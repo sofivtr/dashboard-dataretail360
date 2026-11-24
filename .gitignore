@@ -1,0 +1,14 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secretos y credenciales
+.env
+.streamlit/secrets.toml
+
+# Datos crudos con PII (Ley 21.719)
+data/
+*.csv

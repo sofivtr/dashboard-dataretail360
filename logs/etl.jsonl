@@ -1,0 +1,9 @@
+{"timestamp": "2026-11-03T12:18:35.245357+00:00", "run_id": "844c7f19", "level": "INFO", "step": "pipeline_complete", "rows_processed": 2983, "rows_rejected": 51, "status": "SUCCESS"}
+{"timestamp": "2026-11-03T12:29:37.208169+00:00", "run_id": "5732852e", "level": "INFO", "step": "pipeline_complete", "rows_processed": 2950, "rows_rejected": 84, "status": "SUCCESS"}
+{"timestamp": "2026-11-05T23:30:59.365995+00:00", "run_id": "348f478c", "level": "INFO", "step": "pipeline_complete", "rows_processed": 2950, "rows_rejected": 84, "status": "SUCCESS"}
+{"timestamp": "2026-11-06T13:49:02.535817+00:00", "run_id": "94aeb64f", "level": "INFO", "step": "pipeline_complete", "rows_processed": 2950, "rows_rejected": 84, "status": "SUCCESS"}
+{"timestamp": "2026-11-11T22:40:10.989469+00:00", "run_id": "c6f8a681", "level": "INFO", "step": "pipeline_complete", "rows_processed": 2950, "rows_rejected": 84, "status": "SUCCESS"}
+{"timestamp": "2026-11-13T00:35:39.264281+00:00", "run_id": "b279272d", "level": "INFO", "step": "pipeline_complete", "rows_processed": 2950, "rows_rejected": 84, "status": "SUCCESS"}
+{"timestamp": "2026-11-23T20:51:42.494464+00:00", "run_id": "4848ee78", "level": "INFO", "step": "pipeline_complete", "rows_raw": 101000, "rows_processed": 98510, "rows_rejected": 2490, "rejection_rate": 0.0247, "watermark_fecha_key": 20250331, "status": "SUCCESS"}
+{"timestamp": "2026-11-24T00:57:10.811081+00:00", "run_id": "b5f301e6", "level": "INFO", "step": "pipeline_complete", "rows_raw": 101000, "rows_processed": 98510, "rows_rejected": 2490, "rejection_rate": 0.0247, "watermark_fecha_key": 20250331, "status": "SUCCESS"}
+{"timestamp": "2026-11-24T02:07:54.146339+00:00", "run_id": "3bf5862e", "level": "INFO", "step": "pipeline_complete", "rows_raw": 101000, "rows_processed": 98510, "rows_rejected": 2490, "rejection_rate": 0.0247, "watermark_fecha_key": 20250331, "status": "SUCCESS"}
